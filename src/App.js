@@ -4,7 +4,6 @@ import Carousel from './Carousel'
 import logo from './img/logo.png'
 import './App.css';
 import { logDOM } from '@testing-library/react';
-
 function App() {
   const products=[
     {
@@ -36,5 +35,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
