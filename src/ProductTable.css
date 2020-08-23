@@ -1,0 +1,11 @@
+.productTable{
+    width: 60%;
+    margin: 50px;
+    border-radius: 10px;
+    border-radius: 50px;
+}
+#firstLine th {
+font-weight:bolder ;
+color: yellow;
+border-radius: 50px;
+}

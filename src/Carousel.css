@@ -1,0 +1,19 @@
+.Carou{
+    display: block;
+    background-color: brown;
+}
+#mySlide{
+    width:80%;
+    margin-top:  50px;
+}
+
+#slider img {
+    widows: 700px;
+    height: 350px;
+    
+}
+#slider {
+    border-style: outset;
+    border-radius: 10px;
+    border-width: 5px;
+}
